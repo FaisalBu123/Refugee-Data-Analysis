@@ -1,0 +1,356 @@
+Year,Country of Asylum,Country of Origin,Country of Asylum ISO,Country of Origin ISO,Refugees,Returned Refugees,Asylum Seekers,IDPs,Returned IDPs,Stateless,HST,OOC,Continent
+2023,Afghanistan,-,AFG,-,34826,0,250,3222397,31605,0,1584157,33712,Asia
+2023,Albania,-,ALB,-,5079,0,8,0,0,2018,0,6,Europe
+2023,Egypt,-,EGY,-,240507,841,232244,0,0,10,0,0,Africa
+2023,Argentina,-,ARG,-,4104,0,7129,0,0,22,60765,475,South America
+2023,Armenia,-,ARM,-,150080,0,615,0,0,520,0,0,Asia
+2023,Australia,-,AUS,-,34502,197,82625,0,0,8073,0,1514,Australia
+2023,Austria,-,AUT,-,257811,5736,38039,0,0,3194,0,0,Europe
+2023,Azerbaijan,-,AZE,-,5771,8,168,657749,0,513,0,0,Asia
+2023,Belgium,-,BEL,-,167831,5155,44600,0,0,936,0,679,Europe
+2023,Benin,-,BEN,-,2825,0,10133,8785,0,0,0,0,Africa
+2023,Belarus,-,BLR,-,39981,2500,405,0,0,5567,0,0,Europe
+2023,Brazil,-,BRA,-,235765,0,68101,0,0,5,0,0,South America
+2023,Bosnia and Herzegovina,-,BIH,-,348,0,81,91223,0,21,0,2545,Europe
+2023,Bulgaria,-,BGR,-,97618,4677,11941,0,0,817,0,0,Europe
+2023,Canada,-,CAN,-,169448,5122,197961,0,0,5222,0,0,North America
+2023,China,-,CHN,-,296,5,699,0,0,0,0,0,Asia
+2023,Chile,-,CHL,-,2338,0,12694,0,0,1708,101855,1708,South America
+2023,Colombia,-,COL,-,1382,0,23842,6918373,0,0,885300,516614,South America
+2023,Cuba,-,CUB,-,136,6,25,0,0,0,0,6,North America
+2023,Cyprus,-,CYP,-,39044,1303,31664,0,0,86,0,0,Asia
+2023,Czechia,-,CZE,-,377120,25634,1239,0,0,1611,0,537,Europe
+2023,Denmark,-,DNK,-,68912,2462,2356,0,0,8657,0,0,Europe
+2023,Dominican Rep.,-,DOM,-,778,0,4185,0,0,0,0,0,North America
+2023,Ecuador,-,ECU,-,62899,0,7700,0,0,0,0,0,South America
+2023,Estonia,-,EST,-,42005,2840,346,0,0,65944,0,0,Europe
+2023,Ethiopia,-,ETH,-,979846,111593,63747,2561497,534293,0,1115201,604,Africa
+2023,Fiji,-,FJI,-,15,0,0,0,0,0,0,0,Australia
+2023,Finland,-,FIN,-,89869,4350,7410,0,0,2974,0,0,Europe
+2023,France,-,FRA,-,664366,4670,79642,0,0,4174,0,1716,Europe
+2023,Gambia,-,GMB,-,3809,0,446,0,0,0,0,0,Africa
+2023,United Kingdom of Great Britain and Northern Ireland,-,GBR,-,448620,15384,138156,0,0,4547,0,362,Europe
+2023,Georgia,-,GEO,-,26019,1663,1051,295831,0,530,0,0,Asia
+2023,Germany,-,DEU,-,2593007,75175,361493,0,0,28964,0,0,Europe
+2023,Ghana,-,GHA,-,7057,0,4209,0,0,0,0,0,Africa
+2023,Greece,-,GRC,-,192384,1852,32687,0,0,3743,0,2722,Europe
+2023,Guyana,-,GUY,-,27,0,55,0,0,0,0,0,South America
+2023,"China, Hong Kong SAR",-,HKG,-,301,5,0,0,0,0,0,0,Asia
+2023,Croatia,-,HRV,-,25029,1626,1597,0,0,742,0,202,Europe
+2023,Hungary,-,HUN,-,63180,3932,5,0,0,137,0,6,Europe
+2023,Iceland,-,ISL,-,8715,0,2850,0,0,31,0,0,Europe
+2023,India,-,IND,-,252867,426,11926,0,0,22646,0,0,Asia
+2023,Indonesia,-,IDN,-,8450,35,3793,0,0,2093,0,176,Asia
+2023,Ireland,-,IRL,-,113902,6887,22250,0,0,53,0,0,Europe
+2023,Iran (Islamic Rep. of),-,IRN,-,3764517,521,0,0,0,0,0,0,Asia
+2023,Iraq,-,IRQ,-,286480,2338,12586,1123663,27288,233,0,2538,Asia
+2023,Italy,-,ITA,-,298296,11279,146922,0,0,3000,0,0,Europe
+2023,Jordan,-,JOR,-,684066,4453,39775,0,0,68,0,1293,Asia
+2023,Japan,-,JPN,-,22335,0,23916,0,0,503,0,0,Asia
+2023,Kazakhstan,-,KAZ,-,42685,0,476,0,0,7892,0,0,Asia
+2023,Kenya,-,KEN,-,538899,4626,152942,0,0,9800,401356,64971,Africa
+2023,Kyrgyzstan,-,KGZ,-,27790,0,1203,0,0,20,0,0,Asia
+2023,Rep. of Korea,-,KOR,-,4053,0,26738,0,0,246,0,0,Asia
+2023,Kuwait,-,KWT,-,572,0,879,0,0,92000,0,13,Asia
+2023,Libya,-,LBY,-,1837,23,54837,125802,37099,0,0,0,Africa
+2023,Lebanon,-,LBN,-,788472,10130,7614,0,0,0,0,30053,Asia
+2023,Sri Lanka,-,LKA,-,377,0,178,4806,3734,111,0,0,Asia
+2023,Lithuania,-,LTU,-,80225,5297,333,0,0,2331,0,0,Europe
+2023,Luxembourg,-,LUX,-,13735,0,3745,0,0,201,0,80,Europe
+2023,Latvia,-,LVA,-,45761,3234,552,0,0,180614,0,0,Europe
+2023,Madagascar,-,MDG,-,49,0,938,0,0,0,0,19,Africa
+2023,North Macedonia,-,MKD,-,18898,1258,39,0,0,275,0,33,Europe
+2023,Rep. of Moldova,-,MDA,-,120947,8259,556,0,0,3267,0,0,Europe
+2023,Mexico,-,MEX,-,124784,0,257396,262411,0,13,0,69497,North America
+2023,Malaysia,-,MYS,-,135872,0,48571,0,0,117070,0,55814,Asia
+2023,Mongolia,-,MNG,-,10,0,0,0,0,17,0,5,Asia
+2023,Morocco,-,MAR,-,8295,0,11340,0,0,0,0,0,Africa
+2023,Malta,-,MLT,-,11724,0,815,0,0,0,0,0,Europe
+2023,Nepal,-,NPL,-,19582,9,300,0,0,489,0,567,Asia
+2023,Netherlands (Kingdom of the),-,NLD,-,237767,7215,43915,0,0,4816,0,0,Europe
+2023,Nigeria,-,NGA,-,69940,21,34170,3313601,35131,0,0,326,Africa
+2023,Norway,-,NOR,-,103606,4552,4967,0,0,2046,0,0,Europe
+2023,New Zealand,-,NZL,-,1837,0,1839,0,0,29,0,0,Australia
+2023,Oman,-,OMN,-,300,0,421,0,0,0,0,0,Asia
+2023,Pakistan,-,PAK,-,1988231,56802,61648,0,0,59,1400000,142,Asia
+2023,Panama,-,PAN,-,2724,0,8419,0,0,0,14521,96324,North America
+2023,Paraguay,-,PRY,-,5991,0,1598,0,0,5,3461,0,South America
+2023,Peru,-,PER,-,6712,0,508429,0,0,32,17847,18916,South America
+2023,Philippines,-,PHL,-,934,5,1029,108237,137352,28,0,126228,Asia
+2023,Papua New Guinea,-,PNG,-,10523,23,3298,95000,0,0,134,1736,Australia
+2023,Poland,-,POL,-,971478,65475,6989,0,0,1533,0,1328,Europe
+2023,Portugal,-,PRT,-,62807,3532,1267,0,0,31,0,0,Europe
+2023,Romania,-,ROU,-,87487,5582,1068,0,0,287,0,159,Europe
+2023,South Africa,-,ZAF,-,67145,347,86911,0,0,0,0,0,Africa
+2023,Russian Federation,-,RUS,-,1230131,21,891,0,0,92209,0,0,Europe
+2023,Rwanda,-,RWA,-,115643,325,12660,0,0,9500,12139,7060,Africa
+2023,Senegal,-,SEN,-,11856,0,770,0,0,0,0,0,Africa
+2023,Spain,-,ESP,-,385701,13105,204270,0,0,8579,0,0,Europe
+2023,Serbia and Kosovo: S/RES/1244 (1999),-,SRB,-,29365,0,163,209790,114,2329,0,3023,Europe
+2023,Sudan,-,SDN,-,922474,397061,39510,9052822,0,0,21661,3636,Africa
+2023,Suriname,-,SUR,-,24,0,2609,0,0,0,0,5,South America
+2023,Slovakia,-,SVK,-,126866,8559,92,0,0,49,0,0,Europe
+2023,Slovenia,-,SVN,-,10525,0,1143,0,0,10,0,5,Europe
+2023,Sweden,-,SWE,-,237632,2977,11271,0,0,18698,0,0,Europe
+2023,Switzerland,-,CHE,-,192507,4549,18884,0,0,1185,0,98,Europe
+2023,Syrian Arab Rep.,-,SYR,-,12011,0,4861,7248188,155325,160000,16041461,0,Asia
+2023,Thailand,-,THA,-,87314,0,1674,0,0,587132,0,584,Asia
+2023,Tajikistan,-,TJK,-,10092,33,1387,0,0,3827,0,0,Asia
+2023,Turkmenistan,-,TKM,-,3614,0,0,0,0,3583,0,0,Asia
+2023,Tunisia,-,TUN,-,3994,0,11093,0,0,0,0,23,Africa
+2023,Türkiye,-,TUR,-,3251127,19865,222069,0,0,415,0,0,Asia
+2023,United Arab Emirates,-,ARE,-,1416,0,7044,0,0,0,0,113,Asia
+2023,Uganda,-,UGA,-,1577498,23725,37657,0,0,67000,2659400,0,Africa
+2023,Ukraine,-,UKR,-,2512,0,498,3689000,1318680,35765,0,958361,Europe
+2023,Uruguay,-,URY,-,1285,0,24173,0,0,5,8726,0,South America
+2023,United States of America,-,USA,-,409202,0,2601467,0,0,0,0,0,Europe
+2023,Uzbekistan,-,UZB,-,9405,0,0,0,0,22496,0,0,North America
+2023,Venezuela (Bolivarian Republic of),-,VEN,-,29336,5,1578,0,0,0,0,3206577,Asia
+2023,Zambia,-,ZMB,-,72411,768,5549,0,0,0,0,17550,South America
+2023,Israel,-,ISR,-,1235,0,25464,0,0,35,0,40477,Africa
+2023,Angola,-,AGO,-,25174,614,30268,0,0,0,0,199,Asia
+2023,Botswana,-,BWA,-,761,0,97,0,0,0,0,71,Africa
+2023,Central African Rep.,-,CAF,-,32913,1274,32506,511803,325938,0,0,0,Africa
+2023,Cameroon,-,CMR,-,485285,5648,10288,1075252,15050,0,0,13827,Africa
+2023,Congo,-,COG,-,60637,0,6585,0,0,0,0,12545,Africa
+2023,Dem. Rep. of the Congo,-,COD,-,523392,10423,3106,6251790,1833092,0,0,61,Africa
+2023,Costa Rica,-,CRI,-,23422,0,193718,0,0,327,3109,32853,Africa
+2023,Namibia,-,NAM,-,5157,183,1978,0,0,0,0,77,Africa
+2023,Eswatini,-,SWZ,-,1202,13,1772,0,0,0,0,12,Africa
+2023,Zimbabwe,-,ZWE,-,10114,0,12451,0,0,0,0,1003,Africa
+2023,Bahrain,-,BHR,-,254,0,122,0,0,0,0,0,Africa
+2023,Cote d'Ivoire,-,CIV,-,2370,0,37460,0,0,930978,0,0,Africa
+2023,Qatar,-,QAT,-,197,0,140,0,0,1200,0,0,Asia
+2023,Somalia,-,SOM,-,17770,5,20500,3860099,0,0,0,209,Africa
+2023,Yemen,-,YEM,-,55568,2429,15259,4516341,0,0,0,15,Africa
+2023,Bolivia (Plurinational State of),-,BOL,-,1117,0,76,0,0,0,13881,0,Africa
+2023,Guatemala,-,GTM,-,989,0,2051,0,0,0,406161,148026,Africa
+2023,Liechtenstein,-,LIE,-,597,0,10,0,0,0,0,0,Africa
+2023,Montenegro,-,MNE,-,64733,3986,174,0,0,416,0,213,North America
+2023,Burundi,-,BDI,-,85229,0,2270,8177,0,791,0,1292,Africa
+2023,Burkina Faso,-,BFA,-,37735,316,1146,2062534,0,0,0,0,Africa
+2023,Chad,-,TCD,-,1100921,9943,4916,215928,0,0,0,100543,Africa
+2023,Gabon,-,GAB,-,204,0,86,0,0,0,0,9,Africa
+2023,Guinea,-,GIN,-,2191,5,54,0,0,0,0,0,Africa
+2023,Mali,-,MLI,-,66443,12,273,354739,79763,0,0,0,Africa
+2023,Malawi,-,MWI,-,35201,225,17695,0,0,0,0,5,Africa
+2023,Mozambique,-,MOZ,-,5152,90,18438,582764,280988,0,0,1323,Africa
+2023,South Sudan,-,SSD,-,381236,14655,4871,1236672,0,10500,454831,0,Africa
+2023,United Rep. of Tanzania,-,TZA,-,188953,19527,40143,0,0,0,0,12290,Africa
+2023,Togo,-,TGO,-,28240,5,4400,9680,0,0,0,0,Africa
+2023,Algeria,-,DZA,-,98590,0,3601,0,0,0,0,0,Africa
+2023,Mauritania,-,MRT,-,112549,253,5927,0,0,0,0,0,Africa
+2023,Niger,-,NER,-,269996,27625,35570,335277,0,0,0,45410,Africa
+2023,Bangladesh,-,BGD,-,971984,0,0,0,0,971898,537900,0,Africa
+2023,Nauru,-,NRU,-,0,0,13,0,0,0,0,0,Africa
+2023,Trinidad and Tobago,-,TTO,-,3205,0,28617,0,0,0,5433,1040,Africa
+2023,Bahamas,-,BHS,-,0,0,31,0,0,0,0,723,Asia
+2023,Comoros,-,COM,-,10,5,0,0,0,0,0,0,Africa
+2023,Liberia,-,LBR,-,1164,0,618,0,0,0,0,0,Africa
+2023,Mauritius,-,MUS,-,5,0,19,0,0,0,0,0,Africa
+2023,Saudi Arabia,-,SAU,-,477,0,3945,0,0,70000,0,0,Asia
+2023,Vanuatu,-,VUT,-,0,0,5,0,0,0,0,0,Australia
+2023,Lesotho,-,LSO,-,319,0,363,0,0,0,0,6,Africa
+2023,Saint Kitts and Nevis,-,KNA,-,19,0,0,0,0,0,0,0,North America
+2023,Djibouti,-,DJI,-,23063,0,8442,0,0,0,0,0,North America
+2023,Haiti,-,HTI,-,0,0,0,313901,0,0,0,5,Africa
+2023,Honduras,-,HND,-,182,0,101,247090,0,0,0,173569,North America
+2023,Nicaragua,-,NIC,-,311,0,124,0,0,0,0,583,North America
+2023,El Salvador,-,SLV,-,106,0,263,71500,0,0,346175,118591,North America
+2023,Sint Maarten (Dutch part),-,SXM,-,5,0,128,0,0,0,0,10,North America
+2023,Belize,-,BLZ,-,214,0,1973,0,0,0,0,9452,North America
+2023,Cayman Islands,-,CYM,-,49,0,93,0,0,0,0,222,North America
+2023,Eritrea,-,ERI,-,119,0,0,0,0,0,0,18,North America
+2023,Barbados,-,BRB,-,5,0,10,0,0,0,0,0,North America
+2023,Saint Lucia,-,LCA,-,0,0,5,0,0,0,0,0,North America
+2023,Guinea-Bissau,-,GNB,-,24,0,30,0,0,0,0,0,North America
+2023,Sierra Leone,-,SLE,-,0,0,0,0,0,0,0,210,North America
+2023,Monaco,-,MCO,-,17,0,0,0,0,0,0,0,Africa
+2023,Viet Nam,-,VNM,-,19,0,0,0,0,26811,0,0,North America
+2023,Turks and Caicos Islands,-,TCA,-,7,0,0,0,0,0,0,0,North America
+2023,Cambodia,-,KHM,-,24,0,5,0,0,75000,0,0,Africa
+2023,Myanmar,-,MMR,-,0,0,0,2607645,276612,632789,0,0,North America
+2023,Solomon Islands,-,SLB,-,0,0,0,1000,0,0,0,0,North America
+2023,Brunei Darussalam,-,BRN,-,0,0,0,0,0,20863,0,0,North America
+2023,Cabo Verde,-,CPV,-,0,0,0,0,0,115,0,0,Africa
+2023,Singapore,-,SGP,-,0,0,0,0,0,1109,0,0,Africa
+2023,Aruba,-,ABW,-,0,0,0,0,0,0,0,0,Europe
+2023,Curacao ,-,CUW,-,0,0,0,0,0,0,0,0,Asia
+2024,Ukraine,-,UKR,-,2374,0,486,3669000,571000,35760,0,496124,Europe
+2024,Afghanistan,-,AFG,-,34834,0,281,3221286,1111,0,1738747,72883,Asia
+2024,Albania,-,ALB,-,6592,0,0,0,0,2098,0,334,Europe
+2024,Egypt,-,EGY,-,248057,1230,434844,0,0,10,0,0,Africa
+2024,Argentina,-,ARG,-,4144,0,6652,0,0,27,60301,480,South America
+2024,Armenia,-,ARM,-,148024,0,813,0,0,402,0,0,Asia
+2024,Australia,-,AUS,-,29640,644,87673,0,0,7067,0,934,Australia
+2024,Austria,-,AUT,-,266205,0,32257,0,0,4136,0,0,Europe
+2024,Azerbaijan,-,AZE,-,8087,5,224,657749,0,513,0,15,Asia
+2024,Belgium,-,BEL,-,172442,1200,49519,0,0,836,0,628,Europe
+2024,Benin,-,BEN,-,12229,0,4772,8785,0,0,0,0,Africa
+2024,Bangladesh,-,BGD,-,984651,0,20,0,0,984591,537900,0,Asia
+2024,Belarus,-,BLR,-,48484,600,672,0,0,5506,0,0,Europe
+2024,Brazil,-,BRA,-,243076,0,75977,0,0,5,0,0,South America
+2024,Bosnia and Herzegovina,-,BIH,-,437,0,136,91223,0,17,0,1441,Europe
+2024,Bulgaria,-,BGR,-,94545,1100,4166,0,0,1010,0,0,Europe
+2024,Canada,-,CAN,-,194302,0,253944,0,0,4866,0,0,North America
+2024,China,-,CHN,-,310,5,616,0,0,0,0,0,Asia
+2024,Chile,-,CHL,-,2406,0,12340,0,0,1691,101855,1691,South America
+2024,Colombia,-,COL,-,1356,0,29305,6976227,0,0,876000,676,South America
+2024,Cuba,-,CUB,-,149,0,20,0,0,0,0,6,North America
+2024,Cyprus,-,CYP,-,43449,300,29541,0,0,98,0,0,Asia
+2024,Czechia,-,CZE,-,361546,6000,1053,0,0,605,0,531,Europe
+2024,Denmark,-,DNK,-,64388,600,2319,0,0,8535,0,0,Europe
+2024,Dominican Rep.,-,DOM,-,1011,0,4789,0,0,0,0,0,North America
+2024,Ecuador,-,ECU,-,21253,0,8535,0,0,0,0,0,South America
+2024,Estonia,-,EST,-,40442,700,158,0,0,64882,0,0,Europe
+2024,Ethiopia,-,ETH,-,997892,44929,63855,3245484,118489,0,1150839,616,Europe
+2024,Fiji,-,FJI,-,15,0,15,0,0,0,0,0,Africa
+2024,Finland,-,FIN,-,87691,1000,6554,0,0,2976,0,0,Australia
+2024,France,-,FRA,-,689273,1100,71169,0,0,2506,0,1936,Europe
+2024,Gambia,-,GMB,-,3890,0,414,0,0,0,0,0,Europe
+2024,United Kingdom of Great Britain and Northern Ireland,-,GBR,-,482780,3600,128285,0,0,4435,0,394,Africa
+2024,Georgia,-,GEO,-,27925,400,1128,297905,0,490,0,0,Europe
+2024,Germany,-,DEU,-,2667191,17600,356767,0,0,28649,0,0,Africa
+2024,Ghana,-,GHA,-,7091,0,5239,0,0,0,0,0,Africa
+2024,Greece,-,GRC,-,214574,400,20887,0,0,3743,0,2427,Europe
+2024,Guyana,-,GUY,-,27,0,64,0,0,0,0,0,Europe
+2024,"China, Hong Kong SAR",-,HKG,-,287,0,0,0,0,0,0,0,Europe
+2024,Croatia,-,HRV,-,26821,400,906,0,0,742,0,272,Europe
+2024,Hungary,-,HUN,-,68459,900,0,0,0,101,0,13,Europe
+2024,Iceland,-,ISL,-,8821,0,2195,0,0,31,0,0,Africa
+2024,India,-,IND,-,257497,129,12427,0,0,22516,0,0,Europe
+2024,Indonesia,-,IDN,-,8356,10,4194,0,0,2857,0,186,Asia
+2024,Ireland,-,IRL,-,120835,1600,28552,0,0,52,0,0,Asia
+2024,Iran (Islamic Rep. of),-,IRN,-,3764517,348,0,0,0,0,0,0,Asia
+2024,Iraq,-,IRQ,-,300890,1290,13398,1098913,8844,233,0,2610,Europe
+2024,Italy,-,ITA,-,306908,2600,180062,0,0,3000,0,0,Europe
+2024,Jordan,-,JOR,-,661218,3543,36481,0,0,18,0,1220,Asia
+2024,Japan,-,JPN,-,22335,0,23916,0,0,503,0,0,Asia
+2024,Kazakhstan,-,KAZ,-,65828,0,337,0,0,8019,0,0,Asia
+2024,Kenya,-,KEN,-,566820,1733,210504,0,0,9800,401356,0,Asia
+2024,Kyrgyzstan,-,KGZ,-,25746,0,2477,0,0,59,0,0,Africa
+2024,Rep. of Korea,-,KOR,-,4152,0,31720,0,0,242,0,0,Asia
+2024,Kuwait,-,KWT,-,583,0,910,0,0,92000,0,13,Asia
+2024,Libya,-,LBY,-,2161,5,62633,125802,0,0,0,0,Asia
+2024,Lebanon,-,LBN,-,778167,5078,7911,0,0,0,0,31779,Asia
+2024,Sri Lanka,-,LKA,-,271,0,165,4806,0,109,0,0,Asia
+2024,Lithuania,-,LTU,-,46861,1200,310,0,0,2331,0,0,Europe
+2024,Luxembourg,-,LUX,-,10262,0,3088,0,0,93,0,6,Europe
+2024,Latvia,-,LVA,-,46615,700,226,0,0,180614,0,0,Europe
+2024,Madagascar,-,MDG,-,81,0,1128,0,0,0,0,19,Africa
+2024,Rep. of Moldova,-,MDA,-,121480,2000,1839,0,0,3233,0,0,Europe
+2024,Mexico,-,MEX,-,136428,0,276696,262411,0,13,0,50803,North America
+2024,Malaysia,-,MYS,-,137943,0,51533,0,0,119046,0,55857,Asia
+2024,Montenegro,-,MNE,-,22052,900,155,0,0,431,0,1607,Europe
+2024,Mongolia,-,MNG,-,10,0,0,0,0,17,0,5,Asia
+2024,Morocco,-,MAR,-,7562,0,10136,0,0,0,0,0,Asia
+2024,Nepal,-,NPL,-,19587,0,278,0,0,460,0,558,Africa
+2024,Netherlands (Kingdom of the),-,NLD,-,255455,1700,43201,0,0,4365,0,0,Europe
+2024,Nigeria,-,NGA,-,73720,14,17831,3313601,0,0,0,326,Africa
+2024,Norway,-,NOR,-,107057,1100,4789,0,0,1887,0,0,Europe
+2024,New Zealand,-,NZL,-,1885,0,2674,0,0,130,0,126,Australia
+2024,Oman,-,OMN,-,300,0,421,0,0,0,0,0,Asia
+2024,Pakistan,-,PAK,-,1586287,34548,165902,0,0,59,1400000,134,Asia
+2024,Panama,-,PAN,-,2595,0,5610,0,0,928,6000,37776,North America
+2024,Paraguay,-,PRY,-,6071,0,1578,0,0,5,3515,0,North America
+2024,Peru,-,PER,-,6712,0,508429,0,0,32,8105,8580,South America
+2024,Philippines,-,PHL,-,932,0,1307,119062,115047,32,0,126228,South America
+2024,Papua New Guinea,-,PNG,-,10320,0,3251,95000,0,0,134,1933,Asia
+2024,Poland,-,POL,-,980034,15300,9266,0,0,1487,0,1328,Australia
+2024,Portugal,-,PRT,-,65194,800,2158,0,0,31,0,0,Europe
+2024,Romania,-,ROU,-,166849,1300,629,0,0,291,0,179,Europe
+2024,South Africa,-,ZAF,-,68999,114,94379,0,0,0,0,0,Europe
+2024,Russian Federation,-,RUS,-,1226732,12,784,0,0,91483,0,0,Europe
+2024,Rwanda,-,RWA,-,114686,95,13199,0,0,9500,12139,7157,Africa
+2024,Senegal,-,SEN,-,11837,0,990,0,0,0,0,0,Europe
+2024,Spain,-,ESP,-,423004,3100,254050,0,0,8578,0,0,Africa
+2024,Serbia and Kosovo: S/RES/1244 (1999),-,SRB,-,32892,0,224,209784,0,2223,0,573,Africa
+2024,South Sudan,-,SSD,-,468759,3741,5527,1121084,0,10500,454831,0,Europe
+2024,Sudan,-,SDN,-,865510,179226,43805,10540215,0,0,27282,3392,Europe
+2024,Suriname,-,SUR,-,24,0,2911,0,0,7,0,12,Africa
+2024,Slovakia,-,SVK,-,124106,2000,123,0,0,49,0,0,Africa
+2024,Slovenia,-,SVN,-,11439,200,573,0,0,10,0,10,Africa
+2024,Eswatini,-,SWZ,-,1264,11,1983,0,0,0,0,12,Africa
+2024,Sweden,-,SWE,-,223204,700,9448,0,0,18638,0,0,South America
+2024,Switzerland,-,CHE,-,194024,1100,16786,0,0,1259,0,103,Europe
+2024,Syrian Arab Rep.,-,SYR,-,11316,0,4552,7414806,22725,160000,16217034,18152,Asia
+2024,United Rep. of Tanzania,-,TZA,-,182935,7782,41121,0,0,0,0,12539,Africa
+2024,Thailand,-,THA,-,84712,0,2086,0,0,587083,0,535,Asia
+2024,Tajikistan,-,TJK,-,11033,32,2120,0,0,3629,0,0,Asia
+2024,Turkmenistan,-,TKM,-,3514,0,0,0,0,2790,0,0,Asia
+2024,Tunisia,-,TUN,-,3840,0,14484,0,0,0,0,0,Africa
+2024,Türkiye,-,TUR,-,3148663,9016,194637,0,0,415,0,0,Asia
+2024,United Arab Emirates,-,ARE,-,1415,0,6932,0,0,0,0,99,Asia
+2024,Uganda,-,UGA,-,1656440,7507,45848,0,0,67000,2659400,0,Africa
+2024,Uruguay,-,URY,-,1302,0,27141,0,0,5,9216,0,South America
+2024,United States of America,-,USA,-,435333,0,3184161,0,0,0,0,0,North America
+2024,Uzbekistan,-,UZB,-,8955,0,0,0,0,22496,0,0,Asia
+2024,Venezuela (Bolivarian Republic of),-,VEN,-,29333,5,1578,0,0,0,0,227172,South America
+2024,Zambia,-,ZMB,-,75972,0,9005,0,0,0,0,17666,Africa
+2024,Israel,-,ISR,-,1256,0,24178,0,0,35,0,36103,Asia
+2024,Liechtenstein,-,LIE,-,763,0,25,0,0,0,0,0,Europe
+2024,North Macedonia,-,MKD,-,19371,300,41,0,0,179,0,46,Europe
+2024,Malta,-,MLT,-,8732,0,645,0,0,0,0,0,Europe
+2024,Angola,-,AGO,-,25320,0,30267,0,0,0,0,199,Europe
+2024,Botswana,-,BWA,-,809,0,158,0,0,0,0,70,Africa
+2024,Central African Rep.,-,CAF,-,43078,809,29431,453301,117963,0,0,0,Africa
+2024,Cameroon,-,CMR,-,484195,17004,11596,1036775,38477,0,0,13800,Africa
+2024,Congo,-,COG,-,61827,0,6904,0,0,0,0,12637,Africa
+2024,Dem. Rep. of the Congo,-,COD,-,520381,7181,6117,7008290,520561,0,0,59,Africa
+2024,Costa Rica,-,CRI,-,27684,0,206700,0,0,336,3051,13170,Africa
+2024,Namibia,-,NAM,-,5144,0,1174,0,0,0,0,55,Africa
+2024,Zimbabwe,-,ZWE,-,9540,0,12763,0,0,0,0,998,Africa
+2024,Algeria,-,DZA,-,182949,0,4008,0,0,0,0,0,North America
+2024,Bahrain,-,BHR,-,250,0,122,0,0,0,0,0,Africa
+2024,Cote d'Ivoire,-,CIV,-,2369,9,53197,0,0,930958,0,0,Africa
+2024,Qatar,-,QAT,-,197,0,140,0,0,1200,0,0,Africa
+2024,Somalia,-,SOM,-,18700,0,20774,3861634,0,0,0,222,Africa
+2024,Yemen,-,YEM,-,47410,405,12947,4516341,0,0,0,15,Africa
+2024,Bolivia (Plurinational State of),-,BOL,-,1117,0,34,0,0,0,15569,6137,Africa
+2024,Guatemala,-,GTM,-,1265,0,2366,0,0,0,406161,75328,Africa
+2024,Burundi,-,BDI,-,87131,0,2177,7484,0,791,0,1303,Africa
+2024,Burkina Faso,-,BFA,-,38469,395,1971,2062534,0,0,0,0,Africa
+2024,Chad,-,TCD,-,1239907,15245,11396,219393,0,0,0,296301,Africa
+2024,Guinea,-,GIN,-,2184,0,54,0,0,0,0,0,Africa
+2024,Mauritania,-,MRT,-,132182,746,7834,0,0,0,0,0,Africa
+2024,Mali,-,MLI,-,95440,11,230,330713,45456,0,0,0,Africa
+2024,Malawi,-,MWI,-,35327,84,19137,0,0,0,0,5,Africa
+2024,Mozambique,-,MOZ,-,5454,7,18828,577545,5090,0,0,1356,Africa
+2024,Mauritius,-,MUS,-,5,0,43,0,0,0,0,0,Africa
+2024,Niger,-,NER,-,362682,17226,48636,407430,0,0,0,45873,Africa
+2024,Togo,-,TGO,-,28704,5,10538,9680,0,0,0,0,Africa
+2024,Belize,-,BLZ,-,181,0,1584,0,0,0,0,8808,Africa
+2024,Nauru,-,NRU,-,0,0,97,0,0,0,0,0,Africa
+2024,Trinidad and Tobago,-,TTO,-,3282,0,31260,0,0,0,0,1208,Africa
+2024,Sint Maarten (Dutch part),-,SXM,-,7,0,134,0,0,0,0,10,Africa
+2024,Palau,-,PLW,-,0,0,5,0,0,0,0,0,Australia
+2024,Comoros,-,COM,-,5,7,5,0,0,0,0,0,Africa
+2024,Gabon,-,GAB,-,188,0,78,0,0,0,0,9,Africa
+2024,Liberia,-,LBR,-,1164,0,665,0,0,0,0,0,Africa
+2024,Saudi Arabia,-,SAU,-,488,0,3906,0,0,70000,0,0,Asia
+2024,Bahamas,-,BHS,-,10,0,27,0,0,0,0,723,North America
+2024,Equatorial Guinea,-,GNQ,-,5,0,0,0,0,0,0,0,Africa
+2024,Lesotho,-,LSO,-,364,0,187,0,0,0,0,5,Africa
+2024,Djibouti,-,DJI,-,23477,0,8028,0,0,0,0,0,Africa
+2024,Haiti,-,HTI,-,5,0,0,578074,0,0,0,5,Africa
+2024,Honduras,-,HND,-,190,0,133,247090,0,0,0,155283,North America
+2024,El Salvador,-,SLV,-,111,0,245,71500,0,0,133964,54412,North America
+2024,Antigua and Barbuda,-,ATG,-,5,0,0,0,0,0,0,0,North America
+2024,Cayman Islands,-,CYM,-,49,0,93,0,0,0,0,222,North America
+2024,Saint Kitts and Nevis,-,KNA,-,5,0,0,0,0,0,0,0,North America
+2024,Eritrea,-,ERI,-,119,0,0,0,0,0,0,18,North America
+2024,Saint Lucia,-,LCA,-,5,0,0,0,0,0,0,0,North America
+2024,Guinea-Bissau,-,GNB,-,24,0,30,0,0,0,0,0,North America
+2024,Sierra Leone,-,SLE,-,0,0,0,0,0,0,0,210,Africa
+2024,Monaco,-,MCO,-,17,0,0,0,0,0,0,0,North America
+2024,Barbados,-,BRB,-,5,0,5,0,0,0,0,0,North America
+2024,Viet Nam,-,VNM,-,16,0,0,0,0,26811,0,0,Africa
+2024,Turks and Caicos Islands,-,TCA,-,7,0,0,0,0,0,0,0,North America
+2024,Cambodia,-,KHM,-,24,0,5,0,0,75000,0,0,North America
+2024,Myanmar,-,MMR,-,0,0,0,3191968,251624,633975,0,0,North America
+2024,Solomon Islands,-,SLB,-,0,0,0,1000,0,0,0,0,Africa
+2024,Brunei Darussalam,-,BRN,-,0,0,0,0,0,20863,0,0,Africa
+2024,Cabo Verde,-,CPV,-,0,0,0,0,0,115,0,0,Europe
+2024,Singapore,-,SGP,-,0,0,0,0,0,1109,0,0,North America
+2024,Aruba,-,ABW,-,0,0,0,0,0,0,0,0,Asia
+2024,Curacao ,-,CUW,-,0,0,0,0,0,0,0,0,Asia
